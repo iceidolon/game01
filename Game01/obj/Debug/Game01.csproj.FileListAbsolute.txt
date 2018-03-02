@@ -1,0 +1,10 @@
+C:\Users\water\source\repos\Game01\Game01\bin\Debug\Game01.exe.config
+C:\Users\water\source\repos\Game01\Game01\bin\Debug\Game01.exe
+C:\Users\water\source\repos\Game01\Game01\bin\Debug\Game01.pdb
+C:\Users\water\source\repos\Game01\Game01\obj\Debug\Game01.Form1.resources
+C:\Users\water\source\repos\Game01\Game01\obj\Debug\Game01.Properties.Resources.resources
+C:\Users\water\source\repos\Game01\Game01\obj\Debug\Game01.csproj.GenerateResource.Cache
+C:\Users\water\source\repos\Game01\Game01\obj\Debug\Game01.csproj.CoreCompileInputs.cache
+C:\Users\water\source\repos\Game01\Game01\obj\Debug\Game01.exe
+C:\Users\water\source\repos\Game01\Game01\obj\Debug\Game01.pdb
+C:\Users\water\source\repos\Game01\Game01\obj\Debug\Game01.csprojResolveAssemblyReference.cache
